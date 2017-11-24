@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1492630622 source:e:\labs\sda_labs2sem\kv-61-fedorchenko\algocheck.c
+	"dialog.h"
+	"header.h"
+	<conio.h>
+	"sorting.h"
+	"arrayio.h"
+
+1495038715 e:\labs\sda_labs2sem\kv-61-fedorchenko\dialog.h
+
+1495039148 e:\labs\sda_labs2sem\kv-61-fedorchenko\header.h
+
+1495037927 e:\labs\sda_labs2sem\kv-61-fedorchenko\sorting.h
+	<time.h>
+
+1495033483 e:\labs\sda_labs2sem\kv-61-fedorchenko\arrayio.h
+
+1495039232 source:e:\labs\sda_labs2sem\kv-61-fedorchenko\arrayio.c
+	"arrayio.h"
+	"header.h"
+	"time.h"
+
+1495038516 source:e:\labs\sda_labs2sem\kv-61-fedorchenko\dialog.c
+	"conio.h"
+
+1495045581 source:e:\labs\sda_labs2sem\kv-61-fedorchenko\insert.c
+	"sorting.h"
+	"header.h"
+
+1495046437 source:e:\labs\sda_labs2sem\kv-61-fedorchenko\main.c
+	"header.h"
+	"dialog.h"
+	<conio.h>
+
+1492428908 source:e:\labs\sda_labs2sem\kv-61-fedorchenko\measurement.c
+	"Measurement.h"
+	<stdio.h>
+
+1491742480 e:\labs\sda_labs2sem\kv-61-fedorchenko\measurement.h
+	<time.h>
+
+1495045596 source:e:\labs\sda_labs2sem\kv-61-fedorchenko\quicksort.c
+	"sorting.h"
+	"header.h"
+
+1495045552 source:e:\labs\sda_labs2sem\kv-61-fedorchenko\shaker.c
+	"sorting.h"
+	"header.h"
+
+1495046097 source:e:\labs\sda_labs2sem\kv-61-fedorchenko\sheduletesting.c
+	"dialog.h"
+	"header.h"
+	"sorting.h"
+	"Measurement.h"
+
+1495045615 source:e:\labs\sda_labs2sem\kv-61-fedorchenko\select.c
+	"sorting.h"
+	"header.h"
+
+1495056306 source:e:\labs\sda_labs2sem\kv-61-fedorchenko\vecsort.c
+	"sorting.h"
+	"header.h"
+
