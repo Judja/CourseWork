@@ -2,7 +2,7 @@
 #include "dialog.h"
 #include <conio.h>
 
-//глобальні масиви і змінні, які оголошені в файлі header.h:
+//РіР»РѕР±Р°Р»СЊРЅС– РјР°СЃРёРІРё С– Р·РјС–РЅРЅС–, СЏРєС– РѕРіРѕР»РѕС€РµРЅС– РІ С„Р°Р№Р»С– header.h:
 int A[700][700][700];
 int M = 1;
 int N = 1;
@@ -16,6 +16,6 @@ int main()
     printf("\n\tVariant: 43, Zadacha #4, algorytmy #1, 11, 16, 23");
     printf("\n\nPress any button to continue");
     getch();
-    dialog();//запуск головного діалогу
+    dialog();//Р·Р°РїСѓСЃРє РіРѕР»РѕРІРЅРѕРіРѕ РґС–Р°Р»РѕРіСѓ
     return 0;
 }
